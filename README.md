@@ -13,7 +13,7 @@
 
 <p align="center">
   <samp>- 🌱 Currently on the path of becoming a web developer.</samp><br>
-  <samp>- 💻 Enthusiastic about building simple and functional web projects.</samp><br
+  <samp>- 🌐 Prioritizing user experience and responsive design.</samp><br
   <samp>- 🚀 Constantly learning and exploring new technologies.</samp>
 </p>
 
