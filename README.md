@@ -13,7 +13,7 @@
 
 <p align="center">
   <samp>- 🌱 Currently on the path of becoming a web developer.</samp><br>
-  <samp>- 💻 Enthusiastic about building simple and functional web projects.</samp>
+  <samp>- 💻 Enthusiastic about building simple and functional web projects.</samp><br
   <samp>- 🚀 Constantly learning and exploring new technologies.</samp>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <samp>I'm always open to creative ideas and exciting collaborations. If you have a cool project or want to discuss, feel free to reach out to me through:</samp><br><br>
-  <a href="your_linkedin_profile_link"><img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-0077B5" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/dewa-raditya-rochman-145892298"><img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-0077B5" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/your_instagram_handle/"><img src="https://img.shields.io/badge/Instagram-follow%20me-E4405F" alt="Instagram"></a>
 </p>
 
