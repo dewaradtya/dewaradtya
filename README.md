@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E" alt="JavaScript ES6">
   <img src="https://img.shields.io/badge/PHP-7.4-777BB4" alt="PHP 7.4">
   <br>
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3" alt="Bootstrap 5">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-2-38B2AC" alt="Tailwind CSS 2">
+  <br>
   <img src="https://img.shields.io/badge/Vue.js-3-4FC08D" alt="Vue.js 3">
   <img src="https://img.shields.io/badge/Laravel-8-FF2D20" alt="Laravel 8">
   <br>
