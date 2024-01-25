@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <samp>Welcome to my code wonderland! 🚀 I'm passionate about crafting innovative solutions and creating stunning interfaces. From eye-catching frontends to efficient backends, I thrive on bringing ideas to life.</samp>
+  <samp>Welcome to my code! 🚀 I'm passionate about crafting innovative solutions and creating stunning interfaces. From eye-catching frontends to efficient backends, I thrive on bringing ideas to life.</samp>
 </p>
 
 <h2 align="center">About Me 🚀</h2>
