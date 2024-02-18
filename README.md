@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm Dewa Raditya</h1>
-<h3 align="center">Aspiring Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dewaraditya" alt="Profile Views" />
