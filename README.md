@@ -47,8 +47,12 @@
 
 <p align="center">
   <samp>I'm always open to creative ideas and exciting collaborations. If you have a cool project or want to discuss, feel free to reach out to me through:</samp><br><br>
-<a href="https://www.linkedin.com/in/dewa-raditya-rochman-145892298"><img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-0077B5" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/dewaradtya/"><img src="https://img.shields.io/badge/Instagram-follow%20me-E4405F" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/dewa-raditya-rochman-145892298" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-0077B5" alt="LinkedIn">
+</a>
+  <a href="https://www.instagram.com/dewaradtya/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-follow%20me-E4405F" alt="Instagram">
+  </a>
 </p>
 
 <h2 align="center">Thank You! 🙌</h2>
