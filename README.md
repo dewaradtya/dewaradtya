@@ -37,12 +37,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-code%20editor-007ACC" alt="VS Code">
 </p>
 
-<h2 align="center">GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewaraditya&show_icons=true&count_private=true&hide=contribs,prs&theme=radical" alt="GitHub Stats">
-</p>
-
 <h2 align="center">Interested in Collaboration? 🤝</h2>
 
 <p align="center">
