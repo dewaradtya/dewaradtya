@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Laravel-8-FF2D20" alt="Laravel 8">
   <br>
   <img src="https://img.shields.io/badge/MySQL-8-4479A1" alt="MySQL 8">
-  <img src="https://img.shields.io/badge/C++-17-00599C" alt="C++ 17">
   <img src="https://img.shields.io/badge/Git-version%20control-F05032" alt="Git">
   <img src="https://img.shields.io/badge/VS%20Code-code%20editor-007ACC" alt="VS Code">
 </p>
