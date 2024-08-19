@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-2-38B2AC" alt="Tailwind CSS 2">
   <br>
   <img src="https://img.shields.io/badge/Vue.js-3-4FC08D" alt="Vue.js 3">
-  <img src="https://img.shields.io/badge/Laravel-8-FF2D20" alt="Laravel 8">
+  <img src="https://img.shields.io/badge/Laravel-11-FF2D20" alt="Laravel 8">
   <br>
   <img src="https://img.shields.io/badge/MySQL-8-4479A1" alt="MySQL 8">
   <img src="https://img.shields.io/badge/Git-version%20control-F05032" alt="Git">
