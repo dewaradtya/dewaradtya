@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Dewa Raditya</h1>
+<h1 align="center">Hello World! 👋 I'm Dewa Raditya Rochman</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
